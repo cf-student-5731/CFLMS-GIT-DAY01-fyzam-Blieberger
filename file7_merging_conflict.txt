@@ -1,1 +1,2 @@
 we are creating a conflict now
+added another line to produce conflict
